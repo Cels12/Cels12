@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cout<<"still learning";
 - 📫 How to reach me? I'm very far away from you probably
 - 😄 Pronouns: Attack Helicopter
-- ⚡ Fun fact: I have no fun fact
+- ⚡ Fun fact: There's nothing fun about my life
 
 <!---
 Cels12/Cels12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
